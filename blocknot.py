@@ -198,8 +198,8 @@ if __name__ == '__main__':
 
     # h_window = int(window_geometry[1])
     # w_window = int(window_geometry[0])
-    h_window = 400
-    w_window = 600
+    h_window = 720
+    w_window = 1280
     h_screen = window.winfo_screenheight() / 2 - h_window / 2
     w_screen = window.winfo_screenwidth() / 2 - w_window / 2
 
